@@ -1,0 +1,18 @@
+{
+    "r1": {
+        "tokens per round": 1974.25,
+        "tokens per question": 7028.33,
+        "dollar per round": 0.011589976966292137,
+        "dollar per question": 0.041260318000000004,
+        "seconds per round": 34.0827695271942,
+        "seconds per question": 121.33465951681137
+    },
+    "o3": {
+        "tokens per round": 1104.1063218390805,
+        "tokens per question": 3842.29,
+        "dollar per round": 0.007520608333333334,
+        "dollar per question": 0.026171717,
+        "seconds per round": 39.83513430411788,
+        "seconds per question": 138.62626737833023
+    }
+}
